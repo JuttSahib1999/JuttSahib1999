@@ -1,61 +1,120 @@
-<h1 align="center">Hi 👋, I'm Abdul Muqeet Tabraiz</h1>
-<h3 align="center">Cyber Security Enthusiast | SOC Analyst in Progress | Developer</h3>
+<!-- 🔥 CYBERPUNK BANNER -->
 
 <p align="center">
-  <a href="https://github.com/JuttSahib1999">
-    <img src="https://komarev.com/ghpvc/?username=JuttSahib1999&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-  </a>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Abdul%20Muqeet%20Tabraiz&fontSize=35&fontColor=00FF00&animation=fadeIn" />
 </p>
 
----
+<!-- 🧠 TYPING INTRO -->
 
-## 🧑‍💻 About Me
-- 🔐 Passionate about **Cyber Security & SOC Analysis**
-- 🛡️ Currently working on **Wazuh, SIEM & Threat Detection**
-- 🐧 Hands-on with **Kali Linux, Ubuntu, Windows Security**
-- 💻 Learning **Web Security, Networking & Pentesting**
-- 🎯 Goal: Become a **Professional SOC Analyst**
-
----
-
-## 🚀 Skills & Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=linux,ubuntu,windows,python,js,nodejs,git,github,docker" />
-</p>
-
----
-
-## 📂 Projects
-- 🔍 Vulnerable Lab Setup (Kali + Wazuh + Windows)
-- 🛡️ SIEM Monitoring with Wazuh
-- 🌐 Web Security Testing Lab
-- ⚙️ Node.js Security Projects
-
----
-
-## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JuttSahib1999&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JuttSahib1999&theme=tokyonight" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00FF00&size=26&center=true&vCenter=true&width=700&lines=Cyber+Security+Enthusiast;SOC+Analyst+in+Progress;Threat+Hunter;Ethical+Hacker+Mindset" />
 </p>
 
 ---
 
-## 🧠 Currently Learning
-- 🔐 Advanced Threat Detection
-- 🕵️‍♂️ Incident Response
-- 🌐 Web Application Security (OWASP Top 10)
+# 🧑‍💻 WHO AM I
+
+```diff
++ Name: Abdul Muqeet Tabraiz
++ Role: Cyber Security Enthusiast
++ Focus: SOC | SIEM | Threat Detection
++ Mission: Secure Systems & Hunt Threats
+```
 
 ---
 
-## 🤝 Connect With Me
-<p>
+# 🛡️ CYBER SECURITY PROFILE
+
+* 🔐 Working on: **Wazuh SIEM Lab (Ubuntu + Kali + Windows)**
+* 🧪 Practicing: **Penetration Testing & Vulnerability Assessment**
+* 🕵️ Learning: **Incident Response & Threat Hunting**
+* 🌐 Exploring: **Web App Security (OWASP Top 10)**
+
+---
+
+# ⚔️ TECH STACK
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=linux,ubuntu,windows,python,bash,js,nodejs,docker,git,github" />
+</p>
+
+---
+
+# 🧪 FEATURED PROJECTS
+
+| Project              | Description                                |
+| -------------------- | ------------------------------------------ |
+| 🛡️ SIEM Lab         | Wazuh monitoring with real-time alerts     |
+| 🔍 Vulnerability Lab | Testing exploits in controlled environment |
+| 🌐 Web Security      | OWASP Top 10 practice                      |
+| ⚙️ Secure Node Apps  | Backend security implementation            |
+
+---
+
+# 📊 GITHUB ANALYTICS
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=JuttSahib1999&show_icons=true&theme=radical&hide_border=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JuttSahib1999&theme=radical&hide_border=true" width="48%" />
+</p>
+
+---
+
+# 📈 ACTIVITY GRAPH
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JuttSahib1999&theme=react-dark&hide_border=true" />
+</p>
+
+---
+
+# 🐍 CONTRIBUTION SNAKE
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/JuttSahib1999/JuttSahib1999/output/snake.svg" />
+</p>
+
+---
+
+# 🎯 CURRENT MISSION
+
+```yaml
+Learning:
+  - Advanced SIEM (Wazuh)
+  - Threat Detection
+  - Incident Response
+  - Malware Basics
+
+Goal:
+  - Become SOC Analyst 🔥
+```
+
+---
+
+# 🏆 ACHIEVEMENTS (ADD YOURS)
+
+* 🎓 Cyber Security Internship (In Progress)
+* 🛡️ Hands-on SIEM Lab Setup
+* 💻 Practical Security Testing Experience
+
+---
+
+# 🤝 CONNECT WITH ME
+
+<p align="center">
   <a href="https://www.linkedin.com/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=for-the-badge" />
   </a>
 </p>
 
 ---
 
-## ⚡ Fun Fact
-> I break systems to secure them 🔥
+# ⚡ FINAL QUOTE
+
+> “The quieter you become, the more you are able to hear.” 🔥
+
+<!-- FOOTER -->
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=120&section=footer"/>
+</p>
