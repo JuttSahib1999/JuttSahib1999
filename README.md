@@ -91,7 +91,7 @@ Goal:
 
 ---
 
-# 🏆 ACHIEVEMENTS (ADD YOURS)
+# 🏆 ACHIEVEMENTS
 
 * 🎓 Cyber Security Internship (In Progress)
 * 🛡️ Hands-on SIEM Lab Setup
@@ -102,7 +102,7 @@ Goal:
 # 🤝 CONNECT WITH ME
 
 <p align="center">
-  <a href="https://www.linkedin.com/">
+  <a href="https://www.linkedin.com/in/abdul-muqeet-tabraiz-49310b270/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=for-the-badge" />
   </a>
 </p>
