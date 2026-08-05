@@ -40,8 +40,8 @@
 
 ## 📑 TABLE OF CONTENTS
 
-* [👨‍💻 Who Am I](#-who-am-i)
-* [🛡️ Professional Summary](#-professional-summary)
+* [👨‍💻 Who Am I](#who-am-i)
+* [🛡️ Professional Summary](#professional-summary)
 * [⚡ Cyber Security Domains](#-cyber-security-domains)
 * [💼 Professional Experience](#-professional-experience)
 * [🎓 Education](#-education)
@@ -53,6 +53,7 @@
 
 ---
 
+<a id="who-am-i"></a>
 # 👨‍💻 WHO AM I
 
 ```diff
@@ -66,6 +67,7 @@
 
 ---
 
+<a id="professional-summary"></a>
 # 🛡️ PROFESSIONAL SUMMARY
 
 I'm a Cyber Security professional with practical experience in:
