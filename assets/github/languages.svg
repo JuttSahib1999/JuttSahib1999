@@ -1,6 +1,29 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="450" height="300" viewBox="0 0 450 300">
-  <rect fill="#0d1117" stroke="#30363d" stroke-width="1" width="450" height="300" rx="6"/>
-  <text x="225" y="150" text-anchor="middle" fill="#8b949e" font-size="14" font-family="Arial">
-    Languages will be generated when the workflow runs
-  </text>
+  <defs>
+    <style>
+      .lang-box { fill: #0d1117; stroke: #30363d; stroke-width: 1; }
+      .lang-label { font-size: 13px; fill: #c9d1d9; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; font-weight: 500; }
+      .lang-percent { font-size: 12px; fill: #8b949e; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; }
+      .lang-bar { fill: #58a6ff; }
+    </style>
+  </defs>
+  
+  <rect class="lang-box" x="0" y="0" width="450" height="300" rx="6"/>
+  <text x="15" y="25" style="font-size: 16px; font-weight: 600; fill: #c9d1d9; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif;">Most Used Languages</text>
+
+  <text x="15" y="63" class="lang-label">Python</text>
+  <rect class="lang-bar" x="120" y="50" width="238.92000000000002" height="15" rx="3"/>
+  <text x="363.92" y="63" class="lang-percent">72.4%</text>
+
+  <text x="15" y="88" class="lang-label">JavaScript</text>
+  <rect class="lang-bar" x="120" y="75" width="45.540000000000006" height="15" rx="3"/>
+  <text x="170.54000000000002" y="88" class="lang-percent">13.8%</text>
+
+  <text x="15" y="113" class="lang-label">HTML</text>
+  <rect class="lang-bar" x="120" y="100" width="22.770000000000003" height="15" rx="3"/>
+  <text x="147.77" y="113" class="lang-percent">6.9%</text>
+
+  <text x="15" y="138" class="lang-label">Astro</text>
+  <rect class="lang-bar" x="120" y="125" width="11.22" height="15" rx="3"/>
+  <text x="136.22" y="138" class="lang-percent">3.4%</text>
 </svg>

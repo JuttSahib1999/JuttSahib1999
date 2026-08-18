@@ -1,6 +1,28 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="450" height="180" viewBox="0 0 450 180">
-  <rect fill="#0d1117" stroke="#30363d" stroke-width="1" width="450" height="180" rx="6"/>
-  <text x="180" y="90" text-anchor="middle" fill="#8b949e" font-size="14" font-family="Arial">
-    Stats will be generated when the workflow runs
-  </text>
+  <defs>
+    <style>
+      .stat-box { fill: #0d1117; stroke: #30363d; stroke-width: 1; }
+      .stat-label { font-size: 12px; fill: #8b949e; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; }
+      .stat-value { font-size: 24px; font-weight: 600; fill: #58a6ff; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; }
+    </style>
+  </defs>
+  
+  <rect class="stat-box" x="0" y="0" width="450" height="180" rx="6"/>
+  <text x="15" y="25" class="stat-label" style="font-size: 16px; font-weight: 600; fill: #c9d1d9;">GitHub Stats</text>
+
+  <rect class="stat-box" x="15" y="45" width="105" height="120" rx="4"/>
+  <text x="25" y="85" class="stat-label">Public Repos</text>
+  <text x="25" y="115" class="stat-value">29</text>
+
+  <rect class="stat-box" x="125" y="45" width="105" height="120" rx="4"/>
+  <text x="135" y="85" class="stat-label">Public Gists</text>
+  <text x="135" y="115" class="stat-value">0</text>
+
+  <rect class="stat-box" x="235" y="45" width="105" height="120" rx="4"/>
+  <text x="245" y="85" class="stat-label">Followers</text>
+  <text x="245" y="115" class="stat-value">0</text>
+
+  <rect class="stat-box" x="345" y="45" width="105" height="120" rx="4"/>
+  <text x="355" y="85" class="stat-label">Following</text>
+  <text x="355" y="115" class="stat-value">2</text>
 </svg>
