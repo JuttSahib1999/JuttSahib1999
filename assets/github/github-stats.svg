@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="450" height="180" viewBox="0 0 450 180">
+  <rect fill="#0d1117" stroke="#30363d" stroke-width="1" width="450" height="180" rx="6"/>
+  <text x="180" y="90" text-anchor="middle" fill="#8b949e" font-size="14" font-family="Arial">
+    Stats will be generated when the workflow runs
+  </text>
+</svg>

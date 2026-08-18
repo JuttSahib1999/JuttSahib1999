@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="450" height="300" viewBox="0 0 450 300">
+  <rect fill="#0d1117" stroke="#30363d" stroke-width="1" width="450" height="300" rx="6"/>
+  <text x="225" y="150" text-anchor="middle" fill="#8b949e" font-size="14" font-family="Arial">
+    Languages will be generated when the workflow runs
+  </text>
+</svg>

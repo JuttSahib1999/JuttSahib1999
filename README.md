@@ -401,13 +401,22 @@ In Progress:
 
 </p>
 
+
+<p align="center">
+
+<img height="170em" src="./assets/github/github-stats.svg" alt="GitHub Stats"/>
+
+<img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=JuttSahib1999&theme=radical&hide_border=true" alt="GitHub Streak Stats"/>
+
+</p>
+
 ---
 
 # 💻 MOST USED LANGUAGES
 
 <p align="center">
 
-<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=JuttSahib1999&layout=compact&theme=radical&hide_border=true"/>
+<img height="180em" src="./assets/github/languages.svg" alt="Most Used Languages"/>
 
 </p>
 
@@ -417,10 +426,20 @@ In Progress:
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=JuttSahib1999&theme=react-dark&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=JuttSahib1999&theme=react-dark&hide_border=true" alt="Contribution Graph"/>
 
 </p>
 
+
+---
+
+# 🐍 CONTRIBUTION SNAKE
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/JuttSahib1999/JuttSahib1999/output/snake.svg" alt="Contribution Snake"/>
+
+</p>
 
 ---
 
