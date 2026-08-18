@@ -1,0 +1,38 @@
+name: Generate GitHub Stats
+
+on:
+  schedule:
+    # Runs at 00:00 UTC every day
+    - cron: '0 0 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  generate-stats:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '18'
+
+      - name: Install dependencies
+        run: npm install axios
+
+      - name: Generate stats
+        env:
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          GITHUB_USERNAME: JuttSahib1999
+        run: node .github/scripts/generate-stats.js
+
+      - name: Commit stats if changed
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add assets/github/ 2>/dev/null || true
+          git diff --cached --exit-code || (git commit -m "chore: update github stats" && git push)
