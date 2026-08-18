@@ -395,18 +395,7 @@ In Progress:
 
 <p align="center">
 
-<img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=JuttSahib1999&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true"/>
-
-<img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=JuttSahib1999&theme=radical&hide_border=true"/>
-
-</p>
-
-
-<p align="center">
-
 <img height="170em" src="./assets/github/github-stats.svg" alt="GitHub Stats"/>
-
-<img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=JuttSahib1999&theme=radical&hide_border=true" alt="GitHub Streak Stats"/>
 
 </p>
 
@@ -430,16 +419,6 @@ In Progress:
 
 </p>
 
-
----
-
-# 🐍 CONTRIBUTION SNAKE
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/JuttSahib1999/JuttSahib1999/output/snake.svg" alt="Contribution Snake"/>
-
-</p>
 
 ---
 
