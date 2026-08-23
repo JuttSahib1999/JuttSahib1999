@@ -12,7 +12,7 @@
 
   <rect class="stat-box" x="15" y="45" width="105" height="120" rx="4"/>
   <text x="25" y="85" class="stat-label">Public Repos</text>
-  <text x="25" y="115" class="stat-value">30</text>
+  <text x="25" y="115" class="stat-value">31</text>
 
   <rect class="stat-box" x="125" y="45" width="105" height="120" rx="4"/>
   <text x="135" y="85" class="stat-label">Public Gists</text>
