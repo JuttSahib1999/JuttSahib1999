@@ -12,18 +12,18 @@
   <text x="15" y="25" style="font-size: 16px; font-weight: 600; fill: #c9d1d9; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif;">Most Used Languages</text>
 
   <text x="15" y="63" class="lang-label">Python</text>
-  <rect class="lang-bar" x="120" y="50" width="264" height="15" rx="3"/>
-  <text x="389" y="63" class="lang-percent">80.0%</text>
+  <rect class="lang-bar" x="120" y="50" width="265.65000000000003" height="15" rx="3"/>
+  <text x="390.65000000000003" y="63" class="lang-percent">80.5%</text>
 
   <text x="15" y="88" class="lang-label">JavaScript</text>
-  <rect class="lang-bar" x="120" y="75" width="33" height="15" rx="3"/>
-  <text x="158" y="88" class="lang-percent">10.0%</text>
+  <rect class="lang-bar" x="120" y="75" width="32.34" height="15" rx="3"/>
+  <text x="157.34" y="88" class="lang-percent">9.8%</text>
 
   <text x="15" y="113" class="lang-label">HTML</text>
-  <rect class="lang-bar" x="120" y="100" width="16.5" height="15" rx="3"/>
-  <text x="141.5" y="113" class="lang-percent">5.0%</text>
+  <rect class="lang-bar" x="120" y="100" width="16.17" height="15" rx="3"/>
+  <text x="141.17000000000002" y="113" class="lang-percent">4.9%</text>
 
   <text x="15" y="138" class="lang-label">Astro</text>
-  <rect class="lang-bar" x="120" y="125" width="8.25" height="15" rx="3"/>
-  <text x="133.25" y="138" class="lang-percent">2.5%</text>
+  <rect class="lang-bar" x="120" y="125" width="7.92" height="15" rx="3"/>
+  <text x="132.92" y="138" class="lang-percent">2.4%</text>
 </svg>
